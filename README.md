@@ -13,6 +13,7 @@ departure_airport_iata (str, max 12 char)
 departure_datetime_planned (datetime object)
 departure_datetime_actual (datetime object)
 Wir speichern diese Daten in eine csv Datei und fügen jeden neuen Flug einfach hinzu.
+
 Ablauf:
 
 Hole dir alle Flüge
